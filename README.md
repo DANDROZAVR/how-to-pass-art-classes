@@ -15,3 +15,4 @@ Ubuntu:
 chmod +x create_dirs.sh
 ./create_dirs.sh
 ```
+[📄 View the PDF README doc about this project](OUTCOME_README.pdf)
